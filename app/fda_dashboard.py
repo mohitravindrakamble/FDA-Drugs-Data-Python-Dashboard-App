@@ -1928,4 +1928,4 @@ def update_dose_distribution_chart(pathname):
     return fig
 
 if __name__ == '__main__':
-    app.run(debug=True, port=8050)
+    app.run(host="0.0.0.0", debug=True, port=8050)
