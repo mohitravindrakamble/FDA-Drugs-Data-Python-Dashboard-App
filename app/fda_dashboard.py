@@ -289,7 +289,7 @@ navbar = dbc.NavbarSimple(
     children=[
         dbc.NavItem(dbc.NavLink("Overview", href="/", id="overview-link")),
         dbc.NavItem(dbc.NavLink("Data Explorer", href="/data", id="data-link")),
-        dbc.NavItem(dbc.NavLink("ML Analytics", href="/ml", id="ml-link")),
+        dbc.NavItem(dbc.NavLink("ML Analysis", href="/ml", id="ml-link")),
         dbc.NavItem(dbc.NavLink("Prescriptive", href="/prescriptive", id="prescriptive-link")),
     ],
     brand="FDA Drug Analytics Dashboard",
@@ -617,7 +617,7 @@ def create_data_explorer_layout():
 # ML Analytics Page
 def create_ml_analytics_layout():
     return html.Div([
-        html.H2("Machine Learning Analytics", className="section-title"),
+        html.H2("Machine Learning Analysis", className="section-title"),
         
         dbc.Tabs([
             dbc.Tab(label="Classification", tab_id="classification"),
