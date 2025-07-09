@@ -10,8 +10,8 @@
 </div>
 
 <div align="center">
-  <h3>🚀 End-to-End Data Science Solution for FDA Drug Approval Analysis</h3>
-  <p>Transform 900K+ FDA drug records into actionable insights with advanced ML and prescriptive analytics</p>
+  <h3>🚀 Python Based Dashboard for FDA Drug Analysis</h3>
+  <p>Transform 900K+ FDA drug records into actionable insights with advanced ML and prescriptive analytics, presented through a multi-level interactive Python dashboard built with Dash. </p>
   
   <p>
     <a href="https://fda-drugs-data-python-dashboard-app.onrender.com/">🌐 Live Dashboard</a> •
@@ -39,7 +39,7 @@
 
 ## 🎯 Overview
 
-This comprehensive data science project analyzes FDA drug approval data spanning **1939-2024**, processing **914,641 records** across **12 interconnected tables**. The platform delivers end-to-end analytics from data cleaning to prescriptive recommendations through an interactive dashboard.
+This comprehensive data analysis project analyzes FDA drug approval data spanning **1939-2024**, processing **914,641 records** across **12 interconnected tables**. The platform delivers end-to-end analytics from data cleaning to prescriptive recommendations through an interactive dashboard.
 
 ### 💡 Business Impact
 
